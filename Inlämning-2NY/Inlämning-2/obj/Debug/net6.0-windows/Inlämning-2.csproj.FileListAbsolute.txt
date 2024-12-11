@@ -1,0 +1,17 @@
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\bin\Debug\net6.0-windows\Inlämning-2.exe
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\bin\Debug\net6.0-windows\Inlämning-2.deps.json
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\bin\Debug\net6.0-windows\Inlämning-2.runtimeconfig.json
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\bin\Debug\net6.0-windows\Inlämning-2.dll
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\bin\Debug\net6.0-windows\Inlämning-2.pdb
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.csproj.AssemblyReference.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning_2.Form1.resources
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.csproj.GenerateResource.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.GeneratedMSBuildEditorConfig.editorconfig
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.AssemblyInfoInputs.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.AssemblyInfo.cs
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.csproj.CoreCompileInputs.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.dll
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\refint\Inlämning-2.dll
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.pdb
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\Inlämning-2.genruntimeconfig.cache
+\\ltuglbctxfile03.file.core.windows.net\cxredirects\sunmat-4\Documents\Minaprojekt\Inlämning-2\obj\Debug\net6.0-windows\ref\Inlämning-2.dll
